@@ -6,3 +6,7 @@ Links for Face recognition
 2. https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
 
 The links includes papers also please refere to papers to understand the underlying objective.
+
+
+Links for flask tutorial
+1. https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
